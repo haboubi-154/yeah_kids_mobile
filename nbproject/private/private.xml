@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/HomeForm.java</file>
+            <file>jar:file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/lib/CodenameOne_SRC.zip!/com/codename1/components/SpanLabel.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/MyApplication.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/AddTaskForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/reclamation/ListreclamationForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/AddUserForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/entites/reclamation.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/pubForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/services/ServiceJardin_enfant.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/eventForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/UserForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/NewfeedForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/entites/JardinEnfant.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/entites/Eleve.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/ListEleve.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/BaseForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/ListuserForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/utils/Statics.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/ModifierEleve.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/entites/user.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/services/Serviceuser.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/ModifierJardinEnfant.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/modUserForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/services/Service_rec.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/AddEleve.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/reclamation/supreclamationForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/reclamation/modreclamationForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/supUserForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/reclamation/AddreclamationForm.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/jardinForm.java</file>
+            <file>jar:file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/ListeJardinEnfant.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/services/ServiceEleve.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/AddJardinEnfant.java</file>
+            <file>file:/C:/Users/fedi/Documents/NetBeansProjects/yeah_kids_mobile/src/com/mycompany/myapp/gui/reclamation/reclamationForm.java</file>
+        </group>
+    </open-files>
+</project-private>
